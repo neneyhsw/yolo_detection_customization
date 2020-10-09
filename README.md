@@ -15,7 +15,7 @@ If IoU is bigger, the distance is less.
 
 Example:  
 
-<img src= width="" height="">
+<img src=https://github.com/neneyhsw/yolo_detection_customization/blob/main/alert.png width="400" height="300">
 
 ## Reference
 https://github.com/AlexeyAB/darknet
