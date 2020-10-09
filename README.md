@@ -13,5 +13,9 @@ Modifying image_opencv.cpp to set a box at center, and calculate the IoU between
 The application can compare the distance by the IoU.  
 If IoU is bigger, the distance is less.  
 
+Example:  
+
+<img src= width="" height="">
+
 ## Reference
 https://github.com/AlexeyAB/darknet
