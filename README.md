@@ -19,7 +19,7 @@ Example:
 
 
 In this example, it set a center box and draw it in image_opencv.cpp.  
-Then, 
+Then, calculate IoU and 
 
 ## Reference
 https://github.com/AlexeyAB/darknet
