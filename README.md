@@ -15,7 +15,11 @@ If IoU is bigger, the distance is less.
 
 Example:  
 
-<img src=https://github.com/neneyhsw/yolo_detection_customization/blob/main/alert.png width="400" height="300">
+<img src=https://github.com/neneyhsw/yolo_detection_customization/blob/main/alert.png width="400" height="300">  
+
+
+In this example, it set a center box and draw it in image_opencv.cpp.  
+Then, 
 
 ## Reference
 https://github.com/AlexeyAB/darknet
