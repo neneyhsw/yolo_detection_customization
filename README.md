@@ -19,7 +19,7 @@ Example:
 
 
 In this example, it set a center box and draw it in image_opencv.cpp.  
-Then, calculate IoU and 
+Then, calculate IoU to detect the warning distance.  
 
 ## Reference
 https://github.com/AlexeyAB/darknet
