@@ -20,6 +20,9 @@ Example:
 
 In this example, it set a center box and draw it in image_opencv.cpp.  
 Then, calculate IoU to detect the warning distance.  
+In addition, it only shows classes of car and truck.  
+Other classes will not be shown.(using MS COCO dataset)  
+If 
 
 ## Reference
 https://github.com/AlexeyAB/darknet  
