@@ -9,9 +9,10 @@ The image_opencv.cpp file shows the detection box for detecting video. (cmd: ./d
 Therefore, we can modify these files for customizing our needs.  
 
 In this repository, I will modify the image.c to find the center point of detection box.  
-Modifying image_opencv.cpp to set a box at center, and calculate the IoU between center box and detection box.  
+Modifying image_opencv.cpp to set a box at video center, and calculate the IoU between center box and detection box.  
 The application can compare the distance by the IoU.  
 If IoU is bigger, the distance is less.  
+IoU will be influenced by the size of object.  
 
 Example:  
 
