@@ -8,6 +8,8 @@ The image.c file shows the detection box for detecting picture. (cmd: ./darknet 
 The image_opencv.cpp file shows the detection box for detecting video. (cmd: ./darknet detector demo)  
 Therefore, we can modify these files for customizing our needs.  
 
+image.c and image_opencv.cpp is located at ~/darknet/src  
+
 In this repository, I will modify the image.c to find the center point of detection box.  
 Modifying image_opencv.cpp to set a box at video center, and calculate the IoU between center box and detection box.  
 The application can compare the distance by the IoU.  
